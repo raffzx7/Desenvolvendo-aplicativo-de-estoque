@@ -3,7 +3,6 @@ C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\bin\Debug\net8.0-windows\ilaso.de
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\bin\Debug\net8.0-windows\ilaso.runtimeconfig.json
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\bin\Debug\net8.0-windows\ilaso.dll
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\bin\Debug\net8.0-windows\ilaso.pdb
-C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ilaso.Dashboard.resources
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ilaso.Login.resources
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ilaso.csproj.GenerateResource.cache
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ilaso.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,3 +14,4 @@ C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\refint\i
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ilaso.pdb
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ilaso.genruntimeconfig.cache
 C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ref\ilaso.dll
+C:\Users\Aluno_Manha\RiderProjects\ilaso\ilaso\obj\Debug\net8.0-windows\ilaso.Dashboard.resources
